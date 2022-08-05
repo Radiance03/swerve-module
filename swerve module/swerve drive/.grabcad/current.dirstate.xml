@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-04-11T13:47:59.2018635+03:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\110t gear.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>128084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:31:01.8783139+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\31t gear.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>50884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:27:59.5767766+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\34t gear.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>55684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:37:30.2019574+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\35t gear.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>54084</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:35:04.5474137+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\71t gear.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>86484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:29:21.7917340+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\90t gear.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>73284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:39:07.0122141+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\lower shaft spacerr.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>13284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:17:54.3173497+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\main platform.DXF</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>29785</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:08:27.3045881+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\platform spacer.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>17284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:10:38.5048718+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\shaft spacer.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>11684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:16:54.0539233+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\smallest spacer.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>13684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:14:11.5603855+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\spacer bevel 2x.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>13284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:15:00.2130363+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\spacer gear contact 2x.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>13284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:13:31.6801526+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\steer spacer.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>12884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:11:37.1005437+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\upper platform.DXF</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>28573</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:09:25.1879257+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Manifacture\upper platform.DXF.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>101921</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:09:03.4618222+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\#4-40 SHCS, Grade 8 Steel Rev2_SSA0440-0125ZB.step.SLDPRT</FileName>
+      <SHA1>CEC3A64654041C91C42DE3DB5DD01DC52F7E515B</SHA1>
+      <FileSize>32721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.3249997+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\102T GEAR.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>487923</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-08T15:07:13.1417879+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\102T.SLDPRT</FileName>
+      <SHA1>4AB31BFBC80F5884085399E6F11BE959AFC8B62A</SHA1>
+      <FileSize>462988</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.3768717+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-4649-007 Rev1_94105A824.step.SLDPRT</FileName>
+      <SHA1>32B21ACC4285E899EEFF48CD1F91EA6623C079FE</SHA1>
+      <FileSize>36637</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.3979062+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-001 Rev6.step.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>566066</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-08T13:46:16.4253766+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-002 Rev6.step.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>106169</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-08T13:46:16.4862647+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-005 Rev4_7804K116.step.SLDPRT</FileName>
+      <SHA1>3F0C1C900D429E4D8D167EDC6F3D20E032ED66FB</SHA1>
+      <FileSize>67653</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.4444403+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-010 Rev1_9262K442.step.SLDPRT</FileName>
+      <SHA1>9D5BD597B0F6A352C5E62BF353AFC06AFB77060C</SHA1>
+      <FileSize>16748</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.4493788+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-200 Rev5.step-2.SLDASM</FileName>
+      <SHA1>658AB4F987050726ED743097AA728E2CBA606ABD</SHA1>
+      <FileSize>20738</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.4607103+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-201 Rev6.step-1.SLDPRT</FileName>
+      <SHA1>F8053A50CEE975D40251C6C5C1CABAFDC8E82932</SHA1>
+      <FileSize>184644</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.4644069+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-202 Rev6.step-1.SLDPRT</FileName>
+      <SHA1>07626E08F5122232BBB258E4A02DFC43F9CC96E4</SHA1>
+      <FileSize>46121</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.4673984+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-308 Rev5.step.SLDPRT</FileName>
+      <SHA1>60A0C9419F3C0CCCDF79BED15EB0A241EBBFE0B0</SHA1>
+      <FileSize>178403</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.4713880+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\217-6515-Back 20190920.step.SLDPRT</FileName>
+      <SHA1>D6AE8B3CC48316705CFBFDD8AD35CDC65575055D</SHA1>
+      <FileSize>7074864</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.4753773+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\28t 20dp gear.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>207936</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-08T13:46:16.7930163+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\66t 20dp gear.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>1294852</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-08T13:46:16.7233263+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\80t gear.x_t</FileName>
+      <SHA1>9F2ADA0DD9E9ED16E1A98C4FECC51AE1FB161B7B</SHA1>
+      <FileSize>1229610</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.5763902+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\80t gir.SLDPRT</FileName>
+      <SHA1>FCFD366EF16F1638AD7B46E6DA98488F0B9976A5</SHA1>
+      <FileSize>668865</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.6219320+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\80t.x_t</FileName>
+      <SHA1>77A54071CA291AC598F551C65FD2EEBB951326CC</SHA1>
+      <FileSize>1229758</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.6538720+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\80t1.SLDPRT</FileName>
+      <SHA1>0541552701F2E7A2941F009D3A371835241E7CCB</SHA1>
+      <FileSize>385104</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.6975721+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\90t new.SLDPRT</FileName>
+      <SHA1>FE9FCF58BC561AC3DBE145EF9D1C670BDCE3C76C</SHA1>
+      <FileSize>433581</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.7213102+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\ad.rpt</FileName>
+      <SHA1>F08BB4121801BBD7B4C5205EC358E57EAD7BF146</SHA1>
+      <FileSize>1292</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.7444547+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\am-3772 1.25, 20T, 500 Hex Bore.step.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>701910</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T16:41:45.5572617+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\bevel 1 to 1.SLDPRT</FileName>
+      <SHA1>B26E27D3331C130535327CC2FD12F4D29596BEAD</SHA1>
+      <FileSize>668953</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.7903373+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\bevel 1 to 1.x_t</FileName>
+      <SHA1>71B9D1DF089B6DEC27E712AFFE8E6B6D719FEE42</SHA1>
+      <FileSize>1264193</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.8262400+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\block.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>45101</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-08T07:03:18.2086598+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\bolt 1.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>65098</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T15:46:05.7280294+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\bolt.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>65444</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T16:06:29.2130436+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\console.log</FileName>
+      <SHA1>ECE622D31136AA01978A2E5E405842E57DE03F91</SHA1>
+      <FileSize>14612</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:59:00.8443669+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\falcon.SLDASM</FileName>
+      <SHA1>9A764475D7E2E9B1D28EF77FBC7215EB0F5CAE5B</SHA1>
+      <FileSize>7071610</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:11.9172709+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Lasy susan.SLDPRT</FileName>
+      <SHA1>559FFBD6A31AEBDA4A92103358BD7E49925F5E43</SHA1>
+      <FileSize>95268</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:12.0454613+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Lasy susan1.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>103816</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T16:41:45.3235374+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\M2.5 SHCS, Grade 8 Steel Rev1_SSAM2.5-06MMZB.step.SLDPRT</FileName>
+      <SHA1>A4FAABDDA8B8D95F02ED00D38DFE4B39BF42DEAB</SHA1>
+      <FileSize>32418</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:12.1157838+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\M3 BHTS, Grade 8 Steel Rev1_SBTM3-50MMZB.step.SLDPRT</FileName>
+      <SHA1>2C841DC88379B8C3D2826910B188D5F253BDE24C</SHA1>
+      <FileSize>48466</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:12.1206220+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\M3 BHTS-SECURE, Grade 8 Steel Rev1_SBTM3-24MMZB-SECURE.step.SLDPRT</FileName>
+      <SHA1>5293BEE2A325554F3F00247E0D5BEBA41B5D175C</SHA1>
+      <FileSize>49250</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:12.1266058+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\main frame.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>63137</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:33:18.7584804+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\main hex.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>49354</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T16:41:45.6651319+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\main shaft.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>49437</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-09T16:37:33.6021535+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\motor spacer.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>70662</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-08T13:46:16.3035578+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\nut.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>64469</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T15:46:05.7818855+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\rotating roof.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>62390</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T15:25:56.5435882+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\shaft spacer.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>65250</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:33:18.4832166+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\smallest spacer.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>58947</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T16:18:47.9501191+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\spacer bevel 1.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>68167</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T09:13:19.7162128+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\spacer bevel 1x.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>13284</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T09:19:49.8952424+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\spacer bevel 2.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>65982</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:33:17.4070951+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\spacer bevel.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>66438</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T16:18:47.8212055+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\spacer gear contact 2x.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>64613</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:33:17.7292338+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\spacer gear contact 2x.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>12884</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T09:18:27.9388993+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\spacer motor.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>66951</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:33:18.3266353+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Spin support.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>100372</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T18:39:30.1062324+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Steer and motor connector.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>145119</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:33:18.6248376+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Steering gear 1.SLDPRT</FileName>
+      <SHA1>188554EC3E6DBF0BBBFD608024EBAC1606AA114B</SHA1>
+      <FileSize>849458</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:12.2534805+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Steering gear.SLDPRT</FileName>
+      <SHA1>AF6AB5C8BDE7480D5C8FCC3173F8B1B6F9BB899E</SHA1>
+      <FileSize>858871</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-06T14:56:12.2774210+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\Swerve memes.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>13645413</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-11T10:46:43.3868777+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\wheel house - main frame-1.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>19484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-09T15:34:05.0712082+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\wheel house - main frame-2.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>19484</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-09T15:34:05.0877328+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\wheel house - rotating roof-1.STL</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>40684</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-09T15:34:05.0897273+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\wheel house.SLDASM</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>63710</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-09T15:31:14.1798553+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\wheel spacer 1.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>65954</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-09T16:01:31.3485832+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>Swerve module\wheel spacer.SLDPRT</FileName>
+      <SHA1>MODIFIED</SHA1>
+      <FileSize>66403</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>2022-04-10T16:04:25.8752632+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
